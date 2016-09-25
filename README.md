@@ -1,4 +1,4 @@
-# art-challenge
+# only-straight-line
 An Art vs Math challenge from a 9GAG user
 
 I've used the **p5.js** library from Processing
